@@ -26,9 +26,9 @@ The project is designed to assist hotel managers and analysts in making data-dri
 - **`Oyo_Hotel_Booking_Analysis.ipynb`** → Jupyter Notebook for data preprocessing.
 - **`Oyo_Hotel_Booking_Analysis.pdf`** → PDF Report of the insights.
 - **Dashboard Images:**
-  - ![Dashboard 1](https://github.com/viplavs2004/Oyo_Hotel_booking_Analysis/blob/main/Oyo_dashbroad1.png)
-  - ![Dashboard 2](https://github.com/viplavs2004/Oyo_Hotel_booking_Analysis/blob/main/Oyo_dashbroad2.png)
-  - ![Dashboard 3](https://github.com/viplavs2004/Oyo_Hotel_booking_Analysis/blob/main/Oyo_dashbroad3.png)
+   ![Dashboard 1](https://github.com/viplavs2004/Oyo_Hotel_booking_Analysis/blob/main/Oyo_dashbroad1.png)
+   ![Dashboard 2](https://github.com/viplavs2004/Oyo_Hotel_booking_Analysis/blob/main/Oyo_dashbroad2.png)
+   ![Dashboard 3](https://github.com/viplavs2004/Oyo_Hotel_booking_Analysis/blob/main/Oyo_dashbroad3.png)
 
 ---
 
