@@ -6,6 +6,9 @@ This project provides an in-depth analysis of **OYO Hotels' booking trends**, ca
 - Market segments contributing to total bookings and cancellations.
 - The most demanded room types and hotel types.
 - Factors influencing high cancellation rates.
+  
+## Dataset Description:
+The dataset used for this project contains information about hotel bookings, including features such as:
 
 The project is designed to assist hotel managers and analysts in making data-driven decisions to optimize revenue and improve customer retention.
 
