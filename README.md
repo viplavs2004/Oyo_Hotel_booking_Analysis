@@ -83,7 +83,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ---
 
 ## 📧 **Contact**
-For any questions or collaborations, reach out via GitHub or email me at **[your-email@example.com]**.
+For any questions or collaborations, reach out via GitHub or email me at **[Viplavs2004@gmail.com]**.
 
 ---
 
